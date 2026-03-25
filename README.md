@@ -26,10 +26,17 @@
 ---
 
 ### 📂 [DECRYPTED_PROJECTS_VAULT]
-* **Comprehensive Inquiry System:** Integrated citizen records across government institutions for integrity checks.
-* **National Integrity Index:** Developed the core system for public sector governance assessment in Jordan.
-* **Biometric Attendance System:** Android integration with high-security fingerprint web services.
-* **Healthcare Logistics:** Chronic patient coordination platform and ambulance dispatching system.
+* **Dialysis and Chronic Patients Platform:** Developed a platform for coordinating dialysis and chronic patient appointments and ambulance transportation.
+* **National Integrity Index System:** Developed a national system to assess public sector integrity, accountability, and governance in Jordan.
+* **Comprehensive Inquiry System:** Developed a system in collaboration with the Ministry of Digital Economy to access citizens’ records across government institutions.
+* **Fingerprint Attendance System:** Developed Android-based fingerprint software integrated with high-security web services.
+* **Device Cards & Internet Permit System:** Developed an internal system to manage device cards and internet permissions.
+* **Vehicle & Movement Control System:** Developed an internal management system for vehicle and movement tracking.
+* **Employee Phonebook & Info System:** Developed a web-based employee directory and information system.
+* **Training Management System:** Developed a system to manage training sessions and monitor participant attendance.
+* **Quick Links Portal:** Developed a centralized portal providing streamlined access to all internal systems.
+* **Reception Management System:** Developed a system to track visitors’ records and schedule appointments with investigators.
+* **Unified Frontend System:** Standardized the user interfaces of all organizational systems to provide a consistent institutional identity.
 * **Network & IT Support:** Managed infrastructure and troubleshooting for large-scale government organizations.
 
 ---
