@@ -1,52 +1,78 @@
-# 🛡️ Ibrahim Khaled Alhnaity
-### **Software Developer & IT Systems Specialist | Digital Forensics Expert**
+⚡ SYSTEM_ACCESS: IBRAHIM_ALHNAITY
 
-> [span_0](start_span)[span_1](start_span)"Architecting secure, enterprise-grade systems and bridging the gap between complex software development and digital forensic integrity."[span_0](end_span)[span_1](end_span)
+<div align="center"><img src="https://capsule-render.vercel.app/api?type=waving&color=0:00f2ff,100:005eff&height=250&section=header&text=IBRAHIM%20ALHNAITY&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=2800&pause=900&color=00F2FF&center=true&vCenter=true&width=900&lines=Enterprise+Systems+Developer;IT+Infrastructure+Specialist;Secure+Systems+Builder;Digital+Analysis+Expert"/><img src="https://komarev.com/ghpvc/?username=ibrahimalhnaity&label=Profile%20Views&color=0e75b6&style=flat"/></div>---
 
----
+🧠 Identity Layer
 
-## 👨‍💻 Professional Profile
-[span_2](start_span)[span_3](start_span)[span_4](start_span)A results-driven Software Developer and IT Specialist based in Jordan, with a robust background in developing mission-critical systems for government and public safety sectors[span_2](end_span)[span_3](end_span)[span_4](end_span). [span_5](start_span)Expert in full-stack development with a unique specialization in Digital Forensics, providing technical testimony and certified analytical reports for legal investigations[span_5](end_span).
-
----
-
-## [span_6](start_span)🛠️ Technical Arsenal[span_6](end_span)
-
-| Domain | Technologies |
-| :--- | :--- |
-| **Backend & Logic** | `C#`, `.NET MVC`, `Java`, `Webservices` |
-| **Databases** | `SQL Server`, `Oracle`, `MySQL`, `SQLite` |
-| **Frontend** | `HTML5`, `CSS3`, `Bootstrap`, `jQuery`, `JavaScript` |
-| **Mobile** | `Android (Java/XML)` |
-| **Infrastructure** | `Linux Administration`, `Digital Forensics`, `CCNA`, `Cisco Security` |
+Name: Ibrahim Alhnaity
+Role: Software Developer & IT Systems Specialist
+Location: Jordan
+Focus: Enterprise Systems / Secure Infrastructure / Technical Solutions
+Status: Active
 
 ---
 
-## [span_7](start_span)[span_8](start_span)🚀 Impactful Projects[span_7](end_span)[span_8](end_span)
+⚙️ Core Expertise
 
-* **[span_9](start_span)📉 National Integrity Index System:** Developed a strategic national platform to evaluate accountability and governance in Jordan's public sector[span_9](end_span).
-* **[span_10](start_span)🔍 Comprehensive Inquiry System:** Engineered a cross-institutional integration with the Ministry of Digital Economy for citizen record verification and anti-corruption background checks[span_10](end_span).
-* **[span_11](start_span)⚖️ Digital Forensic Analysis:** Produced certified technical reports and provided expert testimony before prosecutors and courts in high-stakes corruption cases[span_11](end_span).
-* **[span_12](start_span)🚑 Dialysis & Chronic Patients Platform:** Developed a coordination system for patient appointments and emergency ambulance transportation[span_12](end_span).
-* **[span_13](start_span)🛡️ Unified Frontend System:** Standardized UI/UX across all organizational systems to ensure a consistent and secure institutional identity[span_13](end_span).
-
----
-
-## 💼 Career Trajectory
-
-* **IT Specialist / Assistant Programmer** | [span_14](start_span)Civil Defense - Jordan (Feb 2024 – Feb 2026)[span_14](end_span)
-* **Software Developer & Digital Analysis Expert** | [span_15](start_span)Integrity & Anti-Corruption Commission - Jordan (Oct 2019 – Feb 2024)[span_15](end_span)
-* **Technical Support** | [span_16](start_span)Jordan Business System (HAKEEM Project) (Sep 2016 – Jun 2017)[span_16](end_span)
+💻 Building internal systems that solve operational problems
+🔐 Secure technical environments and digital analysis
+🏢 Enterprise workflow design and backend integration
+🧩 Practical software solutions for real institutions
 
 ---
 
-## [span_17](start_span)🎓 Education & Certifications[span_17](end_span)
-* **B.S. in Software Engineering** | [span_18](start_span)Al-Zaytoonah University of Jordan[span_18](end_span).
-* **Certified Training:** `Oracle Application Developer`, `Linux System Administration`, `CCNA`, `Cisco Security NGFW`.
+🚀 Operational Projects
+
+System| Function
+Dialysis Platform| Patient coordination + ambulance transport
+National Integrity Index| Institutional integrity measurement
+Unified Frontend System| UI standardization
+Reception Management| Visitor scheduling
+Fingerprint Attendance| Android + Web Services
 
 ---
 
-## 📬 Connect with Me
-* [span_19](start_span)📧 **Email:** [ibrahim.alhnaity.7@gmail.com](mailto:ibrahim.alhnaity.7@gmail.com)[span_19](end_span)
-* [span_20](start_span)🔗 **LinkedIn:** [linkedin.com/in/ibrahim-alhnaity](https://linkedin.com/in/ibrahim-alhnaity)[span_20](end_span)
-* [span_21](start_span)📍 **Location:** Jordan[span_21](end_span)
+🌐 Portfolio Access
+
+<div align="center"><a href="https://ibrahim-portfolio-wine.vercel.app/">
+<img src="https://img.shields.io/badge/Portfolio-Live%20Project-00C7B7?style=for-the-badge"/>
+</a></div>---
+
+🛰 Tech Arsenal
+
+<div align="center"><img src="https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white"/>
+<img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
+<img src="https://img.shields.io/badge/ASP.NET-512BD4?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
+<img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
+<img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/></div>---
+
+📊 GitHub Intelligence
+
+<div align="center"><img height="170" src="https://github-readme-stats.vercel.app/api?username=ibrahimalhnaity&show_icons=true&theme=tokyonight"/><img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=ibrahimalhnaity&theme=tokyonight"/><img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ibrahimalhnaity&layout=compact&theme=tokyonight"/></div>---
+
+📈 Contribution Activity
+
+<div align="center"><img src="https://github-readme-activity-graph.vercel.app/graph?username=ibrahimalhnaity&theme=tokyo-night"/></div>---
+
+📡 Contact Channels
+
+<div align="center"><a href="https://www.linkedin.com/in/ibrahim-alhnaity">
+<img src="https://img.shields.io/badge/LinkedIn-Professional-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a><a href="mailto:ibrahim.alhnaity.7@gmail.com">
+<img src="https://img.shields.io/badge/Email-Direct%20Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a><a href="https://wa.me/962780200870">
+<img src="https://img.shields.io/badge/WhatsApp-Available-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
+</a></div>---
+
+🛡 Terminal State
+
+> Access Granted
+> Systems Loaded
+> Ready for Collaboration
+
+---
+
+<div align="center"><img src="https://capsule-render.vercel.app/api?type=waving&color=0:005eff,100:00f2ff&height=130&section=footer"/></div>
