@@ -1,7 +1,7 @@
 # 👨‍💻 <samp>SYSTEM_ACCESS: IBRAHIM_ALHNAITY</samp>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/render?type=kaufman&color=00f2ff&height=200&section=header&text=IBRAHIM%20ALHNAITY&fontSize=80&animation=fadeIn" alt="Header" />
+  <img src="https://capsule-render.vercel.app/render?type=kaufman&color=00f2ff&height=200&section=header&text=IBRAHIM%20ALHNAITY&fontSize=80&animation=fadeIn" alt="Ibrahim Alhnaity Header" />
 </div>
 
 ### 📂 [DIRECTORY: /Core_Profile]
@@ -23,24 +23,15 @@
 
 ---
 
-### 📊 [SYSTEM_METRICS]
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ibrahim-alhnaity&show_icons=true&theme=tokyonight&hide_border=true" alt="Ibrahim's Stats" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ibrahim-alhnaity&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</div>
-
----
-
 ### 📞 [COMMUNICATION_CHANNELS]
 <div align="center">
   <a href="https://www.linkedin.com/in/ibrahim-alhnaity" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" />
   </a>
   <a href="mailto:ibrahim.alhnaity.7@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge" />
   </a>
   <a href="https://wa.me/962780200870" target="_blank">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp Badge" />
   </a>
 </div>
